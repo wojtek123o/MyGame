@@ -14,6 +14,9 @@ YELLOW = (255, 255, 0)
 
 BORDER = pygame.Rect(WIDTH//2 - 5, 0, 10, HEIGHT)
 
+#Newline
+#dd
+
 FPS = 60
 VEL = 5 #o ile zmieni sie polozenie
 BULLET_VEL = 7 #szybkosc pocisku
